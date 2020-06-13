@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Emmet",
 		"Git",
 		"Package Control",
 		"RailsCasts Colour Scheme",
