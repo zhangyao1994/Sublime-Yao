@@ -1,0 +1,3 @@
+[
+	{"keys": ["shift+tab"], "command": "reindent", "arg": {"single_line":false}}
+]
